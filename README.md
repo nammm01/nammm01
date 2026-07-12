@@ -3,8 +3,8 @@
 ## 📊 Statistik GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nammm01&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub [Nama]" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_GITHUB_KAMU]&layout=compact&theme=tokyonight" alt="Bahasa Terbanyak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nammm01&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub nammm01" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nammm01&layout=compact&theme=tokyonight" alt="Bahasa Terbanyak" height="180px"/>
 </p>
 
 ---
