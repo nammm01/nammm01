@@ -1,15 +1,4 @@
 <h1 align="center">👋 Halo, Saya Khoirul Anam!</h1>
-<p align="center">
-  <b>Unity Game Developer & Gameplay Programmer</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Engine-Unity_&_C%23-black?style=flat-square&logo=unity">
-  <img src="https://img.shields.io/badge/Focus-Gameplay_&_AI-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Content-YouTube_Shorts-red?style=flat-square&logo=youtube">
-</p>
-
----
 
 <p align="center">
   Selamat datang di profil GitHub saya! Saya fokus membangun mekanik game yang interaktif dan dinamis.<br>
