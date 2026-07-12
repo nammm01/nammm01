@@ -1,17 +1,24 @@
-<h1 align="center">👋 Halo, Saya Khoirul Anam!</h1>
+<h1 align="center">👋 Hi, I'm Khoirul Anam!</h1>
 
 <p align="center">
-  Selamat datang di profil GitHub saya! Saya fokus membangun mekanik game yang interaktif dan dinamis.<br>
-  Sebagian besar proyek utama saya bersifat privat, jadi mari melihat karya visual dan proses pengembangannya di platform lain.
+  Welcome to my GitHub profile! I am currently focusing on game development.<br>
 </p>
 
 <p align="center">
+  <a href="https://nammm01.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-239120?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://youtube.com/@[UsernameYouTubeKamu]" target="_blank">
-    <img src="https://img.shields.io/badge/Lihat_Devlog_di_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/Watch_Devlogs_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <br><br>
   <a href="https://linkedin.com/in/[UsernameLinkedInKamu]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/[UsernameInstagramKamu]" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   &nbsp;&nbsp;
   <a href="https://[UsernameItch].itch.io/" target="_blank">
@@ -20,4 +27,4 @@
 </p>
 
 ---
-<p align="center"><sub>Gunakan tautan di atas untuk terhubung atau melihat portofolio interaktif saya. Terima kasih sudah mampir! ✨</sub></p>
+<p align="center"><sub>Use the links above to connect or view my interactive projects. Thanks for stopping by! ✨</sub></p>
