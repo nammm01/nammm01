@@ -1,11 +1,4 @@
-# 👋 Halo, Saya [Nama Kamu]!
-### 🎮 Game Developer & Programmer
-
-Saya adalah seorang Game Developer yang fokus membangun pengalaman bermain game yang interaktif, *immersive*, dan menyenangkan. Saya suka mengulik *gameplay mechanics*, kecerdasan buatan (AI), dan mengoptimalkan performa game agar berjalan mulus.
-
-Selain ngoding, saya juga aktif membagikan *progress* pengembangan game dan tutorial pendek di media sosial!
-
----
+# 👋 Halo, Saya Khoirul Anam!
 
 ## 🚀 Tentang Saya
 - 🛠️ Saat ini sedang mengembangkan: **[Nama Game Kamu atau Deskripsi Game, misal: Game survival dengan elemen farming]**
